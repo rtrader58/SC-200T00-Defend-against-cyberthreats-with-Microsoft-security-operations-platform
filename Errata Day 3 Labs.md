@@ -1,22 +1,29 @@
 # SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Errata Day 3 Labs
-## Learning Path 7 - Lab 01 – Configure your Microsoft Sentinel environment (~30 Minutes)
+## Learning Path 6 - Lab 01 – Configure your Microsoft Sentinel environment (~30 Minutes)
 ### Exercise 1 - Configure your Microsoft Sentinel environment
-Task 4: Create a Watchlist<br>
+Task 1: Create a Watchlist<br>
 Step 18: It will take at least 10 Minutes for the Watchlist to function even though it will be listed<br>
 
-Task 5: Create a Threat Indicator <br>
-#### Note you may not be able to complete this task.  Threat indicators are being move from Sentinel to Microsoft Defender XDR. 
-#### If you see the following image in step 1 you will not be able to complete the task
-![Example image](Threat.jpg) <br>
+Task 3: Configure log retention <br>
+Step 7: You may get an error when changing the retention, ignore and move on <br>
 
-## Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel (~80 Minutes) (+ 30 Minute Build Time)
-#### NOTE: This lab will take at least 25 minutes to launch..... this is a good time to take a break
+## Learning Path 7 - Lab 01 – Connect logs to Microsoft Sentinel (~80 Minutes)
 
 ### Exercise 1 - Connect data to Microsoft Sentinel using data connectors
+
 Task 2: Connect the Microsoft Defender for Cloud data connector <br>
-Step 10: You may have exit the content hub and navigate back to the connector  <br>
+Step 10: You may have exit the content hub and navigate back to the connector <br>
+
+Task 3: Manage the Azure Activity data connector <br>
+Step 1: Click on Content hub to navigate back to the Content hub <br>
 
 ### Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors
+
+Task 1: Create a Windows Virtual Machine in Azure <br>
+Step 17: You may have to click See all sizes then search for D2s_v3  <br>
+Availability Options - Set to No insfrastructure redundancy required <br>
+Step 20: If there is no option to check the box you have an on premise linsence skip to next step  <br>
+
 Task 2: Connect an On-Premises Server to Azure <br>
 Step 6:  If there appears to be no progress installing the agent, select the Cmd window and press enter <br>
 
