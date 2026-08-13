@@ -97,26 +97,18 @@ https://www.microsoft.com/videoplayer/embed/RE4qLVs?rel=0<br>
 ### Interactive Guide: Threat and Vulnerability Management<br>
 17 minutes<br>
 https://mslearn.cloudguides.com/guides/Reduce%20organizational%20risk%20with%20Threat%20and%20Vulnerability%20Management<br>
-## Module 5 - Mitigate threats using Microsoft Defender for Cloud<br>
-### Microsoft Defender for Cloud interactive guide - Total time 19 minutes<br>
-19 minutes<br>
-https://mslearn.cloudguides.com/guides/Protect%20your%20hybrid%20cloud%20with%20Azure%20Security%20Center
-### Microsoft Defender for Servers<br>
-22 minutes<br>
-https://learn.microsoft.com/en-us/azure/defender-for-cloud/episode-five
-## Module 6 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL) - Total time 0 minutes<br>
+## Module 5 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL) - Total time 0 minutes<br>
 No videos<br>
-## Module 7 - Configure your Microsoft Sentinel environment - Total time 15 minutes<br>
+## Module 6 - Configure your Microsoft Sentinel environment - Total time 15 minutes<br>
 Interactive guide: Detect and respond to modern attacks with unified SIEM and XDR capabilities<br>
 15 minutes<br>
 https://mslearn.cloudguides.com/guides/Modernize%20your%20security%20options%20with%20Microsoft%20Azure%20Sentinel<br>
-## Module 8 - Connect logs to Microsoft Sentinel - Total time 0 minutes
+## Module 7 - Connect logs to Microsoft Sentinel - Total time 0 minutes
 No videos<br>
-## Module 9 - Create detections and perform investigations using Microsoft Sentinel<br>
+## Module 8 - Create detections and perform investigations using Microsoft Sentinel<br>
 ### Microsoft Defender for Cloud Apps - comprehensive demonstration<br>
 26 minutes <br>
 https://www.microsoft.com/en-us/videoplayer/embed/RE4CMYG
-## Module 10 - Perform threat hunting in Microsoft Sentinel<br>
+## Module 9 - Perform threat hunting in Microsoft Sentinel<br>
 No videos<br>
 
-No videos<br>
