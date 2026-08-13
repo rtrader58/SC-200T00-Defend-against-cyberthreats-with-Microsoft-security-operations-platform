@@ -6,5 +6,12 @@ Task 1: Prepare the KQL testing area <br>
 Step 3: Enter the TAP not the Passowd <br>
 Step 4: If needed click Show Navigation to see the navigation menu <br>
 
+## Learning Path 6 - Lab 01 – Configure your Microsoft Sentinel environment (~30 Minutes)
+### Exercise 1 - Configure your Microsoft Sentinel environment
+Task 1: Create a Watchlist<br>
+Step 18: It will take at least 10 Minutes for the Watchlist to function even though it will be listed<br>
+
+Task 3: Configure log retention <br>
+Step 7: You may get an error when changing the retention, ignore and move on <br>
 
 
