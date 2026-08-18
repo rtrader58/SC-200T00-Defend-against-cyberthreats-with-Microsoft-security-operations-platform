@@ -42,21 +42,28 @@ Step 6: Must log in manually copy and paste does not work - credentials are loca
 Task 2: Connect Microsoft Sentinel and Microsoft Defender XDR  <br>
 Step 13: If you close the "Your unified SIEM and XDR is ready" expand Investigations & response > select Advanced hunting <br>
 
-## Learning Path 8 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel
-#### NOTE: This lab will take at least 30 minutes to launch..... this is a good time to take a break
+## Learning Path 8 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel (80 Minutes
+#### NOTE: This lab will take at least 3 - 5 minutes to launch..... this is a good time to take a break
 
-### Exercise 1 - Modify a Microsoft Security rule
- No Errata <br>
-
-### Exercise 2 - Create a Playbook in Microsoft Sentinel
+### Exercise 1 - Create a Playbook in Microsoft Sentinel
 Task 1: Create a Playbook in Microsoft Sentinel <br>
-Step 14: Remove -tasks from the end of the name <br>
+Step 5: Click on Show Navigation to see the menu <br>
+Step 7: Instead of typing use the copy paste method the instructor showed you <br>
 
 Task 2: Update a Playbook in Microsoft Sentinel <br>
-Step 1: The name is Defender_XDR_Ransomware_Playbook_SecOps <br>
-Skip step 7 as you are already in edit mode <br>
+Step 11: Your changes should auto-save, but selecting Save on the command bar ensures they are applied <br>
 
-### Exercise 3 - Create a Scheduled Query from a template
+Task 3: Create an Automation Rule <br>
+Step 1: You may have to navigate to the Automation section in the left pane <br>
+Step 3: Choose Standard Rule before entering the name <br>
+Step 9: Under Actions, select Run Logic App Playbook <br>
+Step 10: The play book will be the same name you created in Task 1 <br>
+
+### Exercise 2 - Create a Scheduled Query from a template
+Task 1: Create a Scheduled Query rule <br>
+Step 7: Instead of typing use the copy paste method the instructor showed you <br>
+
+### Exercise 3 - Explore Entity Behavior Analytics <br>
 Task 1: Create a Scheduled Query rule <br>
 Step 8: Scroll to the right to see the summary blade <br>
 
