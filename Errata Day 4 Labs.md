@@ -1,7 +1,7 @@
 # SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Errata Day 4 Labs
 
 
-## Learning Path 10 - Lab 1 –Threat hunting in Microsoft Sentinel
+## Learning Path 9 - Lab 1 –Threat hunting in Microsoft Sentinel
 #### NOTE: This lab will take at least 30 minutes to launch..... this is a good time to take a break
 ### Exercise 1 - Perform Threat Hunting in Microsoft Sentinel
 Prerequisite task 1: Connect an On-Premises Server <br>
