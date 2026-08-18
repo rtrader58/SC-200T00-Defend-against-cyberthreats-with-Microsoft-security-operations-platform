@@ -14,7 +14,7 @@ Module 1:  Fundamentals of Generative AI - https://learn.microsoft.com/en-us/tra
 Module 2:  Describe Microsoft Copilot for Security - https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/ <br>
 Module 3:  Describe the core features of Microsoft Copilot for Security - https://learn.microsoft.com/en-us/training/modules/security-copilot-describe-core-features/ <br>
 Describe the embedded experiences of Microsoft Copilot for Security - https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/ <br>
-### Learning Path 2 Lab 1: Explore Microsoft Security Copilot (~45 Minutes)
+### Learning Path 2 Lab 1: Explore Microsoft Security Copilot (~20 Minutes)
 Exercise 1 - Explore Microsoft Security Copilot <br>
 Sub-task 1: Provision capacity <br>
 Step 2c: Create a capicity name - must be unique and all lowercase <br>
@@ -38,7 +38,7 @@ Module 6: Perform evidence and entities investigations using Microsoft Defender 
 Module 7: Configure and manage automation using Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/configure-manage-automation-microsoft-defender-for-endpoint/ <br>
 Module 8: Configure for alerts and detections in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/ <br>
 Module 9: Utilize Vulnerability Management in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/ <br>
-### Learning Path 4 Lab 1: Mitigate threats using Microsoft Defender for Endpoint  (~30 Minutes)
+### Learning Path 4 Lab 1: Mitigate threats using Microsoft Defender for Endpoint  (~60 Minutes)
 Exercise 1 - Deploy Microsoft Defender for Endpoint <br>
 There is only 1 Settings option. It is located at the botton of the navigation menu<br>
 Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint <br>
