@@ -32,8 +32,19 @@ Step 12:  It could take up to 60 minutes for the recordings to start. The blue b
 
 Before starting the lab, if you did not close the browser after Learning Path Lab 1 step 2, close the browser <br> 
 
+Task 2: Onboard a Device <br> 
+Step 3: Should read ensure Windows 10 and 11 are selected in the Step 1 dropdown box > select standard in the Connectivity type dropdown <br> 
+
+Task 3: Configure Roles <br> 
+Step 13: If you get an error creating cancel and redo the steps <br> 
+
 ### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint
 
 Task 1: Verify Device onboarding<br>
-Step 2: the computer name is Base23B not Win1 <br>
+Step 2: \The computer name is Base23B not Win1 <br>
 Step 3: You may need to log out, close and reopen the browser and log back in to see Endpoints <br>
+Step 4: Should read ensure Windows 10 and 11 are selected in the Step 1 dropdown box <br>
+
+Task 2: Investigate alerts and incidents <br>
+Step 2: It took ~5 minutes for the alert to populate <br>
+
