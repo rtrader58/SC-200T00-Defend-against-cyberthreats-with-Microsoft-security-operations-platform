@@ -129,7 +129,6 @@ Step 9: Click discard Changes at the top of the page <br>
 Skip Step 18 and 19 <br>
 
 ### Exercise 10 - Use Repositories in Microsoft Sentinel
-Skip Task 2: Create our Azure DevOps environment <br>
 
 Task 3: Connect Sentinel to Azure DevOps
 Step 3: Add your initials
