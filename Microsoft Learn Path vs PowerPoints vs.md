@@ -97,6 +97,6 @@ Module 1: Explain threat hunting concepts in Microsoft Sentinel- https://learn.m
 Module 2: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/hunt-threats-sentinel/ <br>
 Module 3: Use Search jobs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-search-jobs-microsoft-sentinel/ <br>
 Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/ <br>
-### Learning Path 9 Lab 1 – Threat hunting in Microsoft Sentinel (~90 - 120 Minutes)
+### Learning Path 9 Lab 1 – Threat hunting in Microsoft Sentinel (~75 Minutes)
 Exercise 1 - Perform threat hunting in Microsoft Sentinel <br>
 Exercise 2 - Threat hunting using notebooks with Microsoft Sentinel <br>
