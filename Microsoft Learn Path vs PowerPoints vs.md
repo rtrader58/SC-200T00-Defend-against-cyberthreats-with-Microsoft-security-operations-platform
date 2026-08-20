@@ -82,17 +82,16 @@ Module 6: Data normalization in Microsoft Sentinel - https://learn.microsoft.com
 Module 7: Query, visualize, and monitor data in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/query-data-sentinel/ <br>
 Module 8: Manage content in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/manage-content-microsoft-sentinel/ <br>
 ### Learning Path 8 Lab 01: Create detections and perform investigations using Microsoft Sentinel (~180 Minutes)  <br>
-Exercise 1 - Modify a Microsoft Security rule <br>
-Exercise 2 - Create a playbook <br>
-Exercise 3 - Create a scheduled query <br>
-Exercise 4 - Explore Entity Behavior Analytics <br>
-Exercise 5 - Understand detection modeling <br>
-Exercise 6 - Conduct attacks <br>
-Exercise 7 - Create detections <br>
-Exercise 8 - Investigate incidents <br>
-Exercise 9 - Create ASIM Parsers <br>
-Exercise 10 - Create Workbooks <br>
-Exercise 11 - Use Repositories in Microsoft Sentinel <br>
+Exercise 1 - Create a playbook <br>
+Exercise 2 - Create a scheduled query <br>
+Exercise 3 - Explore Entity Behavior Analytics <br>
+Exercise 4 - Understand detection modeling <br>
+Exercise 5 - Conduct attacks <br>
+Exercise 6 - Create detections <br>
+Exercise 7 - Investigate incidents <br>
+Exercise 8 - Create ASIM Parsers <br>
+Exercise 9 - Create Workbooks <br>
+Exercise 10 - Use Repositories in Microsoft Sentinel <br>
 ## Learning Path 9: Perform threat hunting in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-perform-threat-hunting-azure-sentinel/
 Module 1: Explain threat hunting concepts in Microsoft Sentinel- https://learn.microsoft.com/en-us/training/modules/what-is-threat-hunting-azure-sentinel/ <br>
 Module 2: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/hunt-threats-sentinel/ <br>
