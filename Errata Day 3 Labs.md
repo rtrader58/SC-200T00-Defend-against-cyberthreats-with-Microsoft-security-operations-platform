@@ -46,6 +46,6 @@ Step 13: If you close the "Your unified SIEM and XDR is ready" expand Investigat
 
 ### Exercise 10 - Use Repositories in Microsoft Sentinel
 
-Task 3: Connect Sentinel to Azure DevOps
-Step 3: Add your initials
+Task 3: Connect Sentinel to Azure DevOps <br>
+Step 3: Add your initials <br>
 
