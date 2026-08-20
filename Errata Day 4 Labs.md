@@ -19,7 +19,7 @@ Step 3: Choose Standard Rule before entering the name <br>
 Step 9: Under Actions, select Run Logic App Playbook <br>
 Step 10: The play book will be the same name you created in Task 1 <br>
 Step 11: Select Create <br>
-Step 10: Add your initials to the Name
+Step 10: Add your initials to the Name <br>
 
 ### Exercise 2 - Create a Scheduled Query from a template
 Task 1: Create a Scheduled Query rule <br>
@@ -35,13 +35,13 @@ Step 11: You may have to refresh the screen and use search <br>
 
 ### Exercise 3 - Explore Entity Behavior Analytics <br>
 
-Task 1: Explore Entity Behavior
-Step 7: Configure UEBA
-Step 8: Take note the slider bar is greyed out but UEBA is turned on
+Task 1: Explore Entity Behavior <br>
+Step 7: Configure UEBA <br>
+Step 8: Take note the slider bar is greyed out but UEBA is turned on <br>
 
-Task 1: Explore Entity Behavior
-Step 8: Select a rule that does not have FLGT at the beginning, you may have to select multiple rules before you have the duplicate option
-Step 9: Select the rule at the top of the list. It is the one you just duplicated
+Task 1: Explore Entity Behavior <br>
+Step 8: Select a rule that does not have FLGT at the beginning, you may have to select multiple rules before you have the duplicate option <br>
+Step 9: Select the rule at the top of the list. It is the one you just duplicated <br>
 
 ### Exercise 4 - Prepare to perform simulated attacks
 Task 1: Connect an On-Premises Server <br>
@@ -74,7 +74,9 @@ Second step 11: Investigations <br>
 Step 14 - 19: Select an Alert under Detection and Categories > Select ... and Manage alert > Change status to Resolve > Classification to True Positive - Malware  <br>
 
 ### Exercise 8 - Deploy ASIM parsers
-Skip - Exercises does not run as written  <br>
+Task 1: Deploy the Registry Schema ASIM parsers <br>
+Step 8: Click the the down arrow next to Shema choose Function <br>
+Skip step 12 and 13 <br>
 
 ### Exercise 9 - Create workbooks
 Task 1: Explore workbook templates <br>
