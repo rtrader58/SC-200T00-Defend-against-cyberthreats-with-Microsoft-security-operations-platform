@@ -81,7 +81,7 @@ Module 5: Identify threats with Entity behavioral analytics in Microsoft Sentine
 Module 6: Data normalization in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/data-normalization-microsoft-sentinel/ <br>
 Module 7: Query, visualize, and monitor data in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/query-data-sentinel/ <br>
 Module 8: Manage content in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/manage-content-microsoft-sentinel/ <br>
-### Learning Path 8 Lab 01: Create detections and perform investigations using Microsoft Sentinel (~90 - 120 Minutes)  <br>
+### Learning Path 8 Lab 01: Create detections and perform investigations using Microsoft Sentinel (~180 Minutes)  <br>
 Exercise 1 - Modify a Microsoft Security rule <br>
 Exercise 2 - Create a playbook <br>
 Exercise 3 - Create a scheduled query <br>
