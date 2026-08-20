@@ -49,7 +49,7 @@ Module 1: Construct KQL statements for Microsoft Sentinel - https://learn.micros
 Module 2: Analyze query results using KQL - https://learn.microsoft.com/en-us/training/modules/analyze-results-kusto-query-language/ <br>
 Module 3: Build multi-table statements using KQL - https://learn.microsoft.com/en-us/training/modules/build-multi-table-statements-kusto-query-language/ <br>
 Module 4: Work with data in Microsoft Sentinel using Kusto Language - https://learn.microsoft.com/en-us/training/modules/work-with-data-kusto-query-language/ <br>
-### Learning Path 5 Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL)  (~30 Minutes) (+ ~30 Minute build time)<br>
+### Learning Path 5 Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) (~30 Minutes)
 Exercise 1 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 ## Learning Path 6: Configure your Microsoft Sentinel environment -https://learn.microsoft.com/en-us/training/paths/sc-200-configure-azure-sentinel-environment/
 Module 1: Introduction to Microsoft Sentinel -https://learn.microsoft.com/en-us/training/modules/intro-to-azure-sentinel/ <br>
@@ -58,7 +58,7 @@ Module 3: Query logs in Microsoft Sentinel - https://learn.microsoft.com/en-us/t
 Module 4: Use watchlists in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-watchlists-azure-sentinel/ <br>
 Module 5: Utilize threat intelligence in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/utilize-threat-intelligence-azure-sentinel/ <br>
 Module 6: Integrate Microsoft Defender XDR with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/integrate-microsoft-defender-xdr-with-microsoft-sentinel/ <br>
-### Learning Path 6 Lab 01: Configure your Microsoft Sentinel environment (~30 Minutes) (+ ~30 Minute build time) <BR>
+### Learning Path 6 Lab 01: Configure your Microsoft Sentinel environment (~30 Minutes)
 Exercise 1 - Configure your Microsoft Sentinel environment <br>
 ## Learning Path 7: Connect logs to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-connect-logs-to-azure-sentinel/
 Module 1: Connect data to Microsoft Sentinel using data connectors - https://learn.microsoft.com/en-us/training/modules/connect-data-to-azure-sentinel-with-data-connectors/ <br>
@@ -68,7 +68,7 @@ Module 4: Connect Windows hosts to Microsoft Sentinel - https://learn.microsoft.
 Module 5: Connect Common Event Format logs to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-common-event-format-logs-to-azure-sentinel/ <br>
 Module 6: Connect syslog data sources to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-syslog-data-sources-to-azure-sentinel/ <br>
 Module 7: Connect threat indicators to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-threat-indicators-to-azure-sentinel/ <br>
-### Learning Path 7 Lab 01: Connect logs to Microsoft Sentinel (~80 Minutes) (+ ~30 Minute build time)  <br>
+### Learning Path 7 Lab 01: Connect logs to Microsoft Sentinel (~80 Minutes)
 Exercise 1 - Connect data to Microsoft Sentinel using data connectors <br>
 Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors <br>
 Exercise 3 - Connect Linux hosts to Microsoft Sentinel using data connectors <br>
@@ -81,7 +81,7 @@ Module 5: Identify threats with Entity behavioral analytics in Microsoft Sentine
 Module 6: Data normalization in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/data-normalization-microsoft-sentinel/ <br>
 Module 7: Query, visualize, and monitor data in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/query-data-sentinel/ <br>
 Module 8: Manage content in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/manage-content-microsoft-sentinel/ <br>
-### Learning Path 8 Lab 01: Create detections and perform investigations using Microsoft Sentinel (~180 Minutes)  <br>
+### Learning Path 8 Lab 01: Create detections and perform investigations using Microsoft Sentinel (~180 Minutes) 
 Exercise 1 - Create a playbook <br>
 Exercise 2 - Create a scheduled query <br>
 Exercise 3 - Explore Entity Behavior Analytics <br>
@@ -97,6 +97,6 @@ Module 1: Explain threat hunting concepts in Microsoft Sentinel- https://learn.m
 Module 2: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/hunt-threats-sentinel/ <br>
 Module 3: Use Search jobs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-search-jobs-microsoft-sentinel/ <br>
 Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/ <br>
-### Learning Path 9 Lab 1 – Threat hunting in Microsoft Sentinel (~90 - 120 Minutes) <br>
+### Learning Path 9 Lab 1 – Threat hunting in Microsoft Sentinel (~90 - 120 Minutes)
 Exercise 1 - Perform threat hunting in Microsoft Sentinel <br>
 Exercise 2 - Threat hunting using notebooks with Microsoft Sentinel <br>
