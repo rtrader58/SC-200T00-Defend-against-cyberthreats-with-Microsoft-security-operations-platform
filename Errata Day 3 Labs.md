@@ -42,8 +42,6 @@ Step 6: Must log in manually copy and paste does not work - credentials are loca
 Task 2: Connect Microsoft Sentinel and Microsoft Defender XDR  <br>
 Step 13: If you close the "Your unified SIEM and XDR is ready" expand Investigations & response > select Advanced hunting <br>
 
-
-
 ### Exercise 10 - Use Repositories in Microsoft Sentinel
 
 Task 3: Connect Sentinel to Azure DevOps <br>
