@@ -25,4 +25,4 @@ Microsoft Defender for Servers Pricing - https://azure.microsoft.com/en-us/prici
 Azure Sentinel tables explained - https://medium.com/wortell/azure-sentinel-tables-explained-d91d8cad6f <br>
 KQL sample queries - https://github.com/wortell/KQL <br>
 Microsoft Sentinel Playbooks - https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks <br>
-
+Microsoft Sentinel and Microsoft 365 Defender GitHub Repository - https://github.com/Azure/Azure-Sentinel <br>
