@@ -24,4 +24,5 @@ Microsoft Defender for Servers Overview - https://learn.microsoft.com/en-us/azur
 Microsoft Defender for Servers Pricing - https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/<br>
 Azure Sentinel tables explained - https://medium.com/wortell/azure-sentinel-tables-explained-d91d8cad6f <br>
 KQL sample queries - https://github.com/wortell/KQL <br>
+Microsoft Sentinel Playbooks - https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks <br>
 
